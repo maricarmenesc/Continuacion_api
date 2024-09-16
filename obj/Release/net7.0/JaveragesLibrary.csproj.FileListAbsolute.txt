@@ -1,0 +1,115 @@
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\appsettings.Development.json
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\appsettings.json
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\Infrastructure\Data\javerages.library.data.json
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\JaveragesLibrary.exe
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\JaveragesLibrary.deps.json
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\JaveragesLibrary.runtimeconfig.json
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\JaveragesLibrary.dll
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\JaveragesLibrary.pdb
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\AutoMapper.dll
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\Microsoft.OpenApi.dll
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\codigos Sistemas operativos\home\JaveragesLibrary\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.csproj.AssemblyReference.cache
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.AssemblyInfoInputs.cache
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.AssemblyInfo.cs
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.csproj.CoreCompileInputs.cache
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.MvcApplicationPartsAssemblyInfo.cs
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\staticwebassets\msbuild.JaveragesLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\staticwebassets\msbuild.build.JaveragesLibrary.props
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.JaveragesLibrary.props
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.JaveragesLibrary.props
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\staticwebassets.pack.json
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\staticwebassets.build.json
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\staticwebassets.development.json
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\scopedcss\bundle\JaveragesLibrary.styles.css
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.csproj.CopyComplete
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.dll
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\refint\JaveragesLibrary.dll
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.pdb
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.genruntimeconfig.cache
+C:\codigos Sistemas operativos\home\JaveragesLibrary\obj\Release\net7.0\ref\JaveragesLibrary.dll
+C:\JaveragesLibrary\bin\Release\net7.0\appsettings.Development.json
+C:\JaveragesLibrary\bin\Release\net7.0\Infrastructure\Data\javerages.library.data.json
+C:\JaveragesLibrary\bin\Release\net7.0\appsettings.json
+C:\JaveragesLibrary\bin\Release\net7.0\JaveragesLibrary.exe
+C:\JaveragesLibrary\bin\Release\net7.0\JaveragesLibrary.deps.json
+C:\JaveragesLibrary\bin\Release\net7.0\JaveragesLibrary.runtimeconfig.json
+C:\JaveragesLibrary\bin\Release\net7.0\JaveragesLibrary.dll
+C:\JaveragesLibrary\bin\Release\net7.0\JaveragesLibrary.pdb
+C:\JaveragesLibrary\bin\Release\net7.0\AutoMapper.dll
+C:\JaveragesLibrary\bin\Release\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Azure.Core.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Azure.Identity.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Humanizer.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.Data.SqlClient.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.Identity.Client.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.OpenApi.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.SqlServer.Server.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Mono.TextTemplating.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JaveragesLibrary\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JaveragesLibrary\bin\Release\net7.0\System.CodeDom.dll
+C:\JaveragesLibrary\bin\Release\net7.0\System.Configuration.ConfigurationManager.dll
+C:\JaveragesLibrary\bin\Release\net7.0\System.Drawing.Common.dll
+C:\JaveragesLibrary\bin\Release\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\JaveragesLibrary\bin\Release\net7.0\System.Memory.Data.dll
+C:\JaveragesLibrary\bin\Release\net7.0\System.Runtime.Caching.dll
+C:\JaveragesLibrary\bin\Release\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\JaveragesLibrary\bin\Release\net7.0\System.Security.Permissions.dll
+C:\JaveragesLibrary\bin\Release\net7.0\System.Windows.Extensions.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\JaveragesLibrary\bin\Release\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.csproj.AssemblyReference.cache
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.AssemblyInfoInputs.cache
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.AssemblyInfo.cs
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.csproj.CoreCompileInputs.cache
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.MvcApplicationPartsAssemblyInfo.cs
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\JaveragesLibrary\obj\Release\net7.0\staticwebassets.build.json
+C:\JaveragesLibrary\obj\Release\net7.0\staticwebassets.development.json
+C:\JaveragesLibrary\obj\Release\net7.0\staticwebassets\msbuild.JaveragesLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\JaveragesLibrary\obj\Release\net7.0\staticwebassets\msbuild.build.JaveragesLibrary.props
+C:\JaveragesLibrary\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.JaveragesLibrary.props
+C:\JaveragesLibrary\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.JaveragesLibrary.props
+C:\JaveragesLibrary\obj\Release\net7.0\staticwebassets.pack.json
+C:\JaveragesLibrary\obj\Release\net7.0\scopedcss\bundle\JaveragesLibrary.styles.css
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.csproj.CopyComplete
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.dll
+C:\JaveragesLibrary\obj\Release\net7.0\refint\JaveragesLibrary.dll
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.pdb
+C:\JaveragesLibrary\obj\Release\net7.0\JaveragesLibrary.genruntimeconfig.cache
+C:\JaveragesLibrary\obj\Release\net7.0\ref\JaveragesLibrary.dll
